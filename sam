@@ -1,0 +1,37 @@
+# Farmacocinética
+
+**Descripción**: Ciencia que estudia el destino de los fármacos en el organismo desde su administración hasta su eliminación, abarcando cómo el fármaco es absorbido, distribuido, metabolizado y eliminado para optimizar su eficacia y minimizar efectos adversos.
+
+## Absorción
+- Proceso mediante el cual el fármaco se traslada del sitio de administración al torrente sanguíneo.
+- **Factores Claves**:
+  - Vías de Administración:
+    - **Enterales**: Administración a través del tracto gastrointestinal.
+    - **Parenterales**: Administración fuera del tracto gastrointestinal.
+  - Formulación del Fármaco: Tabletas, cápsulas, soluciones, suspensiones.
+  - Características del Paciente: Salud gastrointestinal, metabolismo, edad, peso.
+
+## Distribución
+- Transporte del fármaco desde el torrente sanguíneo hacia los tejidos y órganos.
+- **Factores Claves**:
+  - Flujo Sanguíneo: Órganos con alto flujo sanguíneo (hígado, riñones) reciben más fármaco.
+  - Unión a Proteínas: Parte del fármaco se une a proteínas plasmáticas, afectando la disponibilidad.
+  - Barreras Biológicas: Barrera hematoencefálica, barrera placentaria.
+  - Volumen de Distribución: Medida del espacio disponible para el fármaco en el organismo.
+
+## Metabolismo
+- Transformación química del fármaco para facilitar su eliminación.
+- **Órgano Principal**: Hígado (a través del sistema enzimático microsomal hepático, como el sistema CYP450).
+- **Proceso**:
+  - Fase I: Reacciones de oxidación, reducción o hidrólisis.
+  - Fase II: Conjugación con sustancias endógenas para formar compuestos más hidrosolubles.
+- **Variaciones**: Diferencias en la actividad enzimática pueden requerir ajustes en la dosis.
+
+## Eliminación
+- Excreción del fármaco y sus metabolitos del cuerpo.
+- **Órganos Principales**:
+  - Riñones: Filtración y excreción a través de la orina.
+  - Hígado: Excreción a través de la bilis y eliminación en las heces.
+  - Pulmones: Eliminación de fármacos volátiles por exhalación.
+- **Otros Métodos**: Eliminación por sudor, saliva, leche materna.
+- **Factores**: Velocidad de eliminación afectada por concentración en sangre y tejidos, y condiciones patológicas.
